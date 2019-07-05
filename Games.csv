@@ -1,0 +1,465 @@
+,awayTeam,homeTeam,gid
+0,Boston,Minnesota,0
+1,Boston,Denver,1
+2,Boston,Portland,2
+3,Boston,OKC,3
+4,Boston,Golden State,4
+5,Boston,Los Angeles,5
+6,Boston,San Antonio,6
+7,Boston,Houston,7
+8,Boston,Atlanta,8
+9,Boston,Miami,9
+10,Boston,Chicago,10
+11,Boston,Phoenix,11
+12,Boston,Toronto,12
+13,Boston,Philly,13
+14,Boston,New York,14
+15,New York,Minnesota,15
+16,New York,Denver,16
+17,New York,Portland,17
+18,New York,OKC,18
+19,New York,Golden State,19
+20,New York,Los Angeles,20
+21,New York,San Antonio,21
+22,New York,Houston,22
+23,New York,Atlanta,23
+24,New York,Miami,24
+25,New York,Chicago,25
+26,New York,Phoenix,26
+27,New York,Toronto,27
+28,New York,Philly,28
+29,Philly,Minnesota,29
+30,Philly,Denver,30
+31,Philly,Portland,31
+32,Philly,OKC,32
+33,Philly,Golden State,33
+34,Philly,Los Angeles,34
+35,Philly,San Antonio,35
+36,Philly,Houston,36
+37,Philly,Atlanta,37
+38,Philly,Miami,38
+39,Philly,Chicago,39
+40,Philly,Phoenix,40
+41,Philly,Toronto,41
+42,Toronto,Minnesota,42
+43,Toronto,Denver,43
+44,Toronto,Portland,44
+45,Toronto,OKC,45
+46,Toronto,Golden State,46
+47,Toronto,Los Angeles,47
+48,Toronto,San Antonio,48
+49,Toronto,Houston,49
+50,Toronto,Atlanta,50
+51,Toronto,Miami,51
+52,Toronto,Chicago,52
+53,Toronto,Phoenix,53
+54,Phoenix,Minnesota,54
+55,Phoenix,Denver,55
+56,Phoenix,Portland,56
+57,Phoenix,OKC,57
+58,Phoenix,Golden State,58
+59,Phoenix,Los Angeles,59
+60,Phoenix,San Antonio,60
+61,Phoenix,Houston,61
+62,Phoenix,Atlanta,62
+63,Phoenix,Miami,63
+64,Phoenix,Chicago,64
+65,Chicago,Minnesota,65
+66,Chicago,Denver,66
+67,Chicago,Portland,67
+68,Chicago,OKC,68
+69,Chicago,Golden State,69
+70,Chicago,Los Angeles,70
+71,Chicago,San Antonio,71
+72,Chicago,Houston,72
+73,Chicago,Atlanta,73
+74,Chicago,Miami,74
+75,Miami,Minnesota,75
+76,Miami,Denver,76
+77,Miami,Portland,77
+78,Miami,OKC,78
+79,Miami,Golden State,79
+80,Miami,Los Angeles,80
+81,Miami,San Antonio,81
+82,Miami,Houston,82
+83,Miami,Atlanta,83
+84,Atlanta,Minnesota,84
+85,Atlanta,Denver,85
+86,Atlanta,Portland,86
+87,Atlanta,OKC,87
+88,Atlanta,Golden State,88
+89,Atlanta,Los Angeles,89
+90,Atlanta,San Antonio,90
+91,Atlanta,Houston,91
+92,Houston,Minnesota,92
+93,Houston,Denver,93
+94,Houston,Portland,94
+95,Houston,OKC,95
+96,Houston,Golden State,96
+97,Houston,Los Angeles,97
+98,Houston,San Antonio,98
+99,San Antonio,Minnesota,99
+100,San Antonio,Denver,100
+101,San Antonio,Portland,101
+102,San Antonio,OKC,102
+103,San Antonio,Golden State,103
+104,San Antonio,Los Angeles,104
+105,Los Angeles,Minnesota,105
+106,Los Angeles,Denver,106
+107,Los Angeles,Portland,107
+108,Los Angeles,OKC,108
+109,Los Angeles,Golden State,109
+110,Golden State,Minnesota,110
+111,Golden State,Denver,111
+112,Golden State,Portland,112
+113,Golden State,OKC,113
+114,OKC,Minnesota,114
+115,OKC,Denver,115
+116,OKC,Portland,116
+117,Portland,Minnesota,117
+118,Portland,Denver,118
+119,Denver,Minnesota,119
+120,Minnesota,Boston,120
+121,Denver,Boston,121
+122,Portland,Boston,122
+123,OKC,Boston,123
+124,Golden State,Boston,124
+125,Los Angeles,Boston,125
+126,San Antonio,Boston,126
+127,Houston,Boston,127
+128,Atlanta,Boston,128
+129,Miami,Boston,129
+130,Chicago,Boston,130
+131,Phoenix,Boston,131
+132,Toronto,Boston,132
+133,Philly,Boston,133
+134,New York,Boston,134
+135,Minnesota,New York,135
+136,Denver,New York,136
+137,Portland,New York,137
+138,OKC,New York,138
+139,Golden State,New York,139
+140,Los Angeles,New York,140
+141,San Antonio,New York,141
+142,Houston,New York,142
+143,Atlanta,New York,143
+144,Miami,New York,144
+145,Chicago,New York,145
+146,Phoenix,New York,146
+147,Toronto,New York,147
+148,Philly,New York,148
+149,Minnesota,Philly,149
+150,Denver,Philly,150
+151,Portland,Philly,151
+152,OKC,Philly,152
+153,Golden State,Philly,153
+154,Los Angeles,Philly,154
+155,San Antonio,Philly,155
+156,Houston,Philly,156
+157,Atlanta,Philly,157
+158,Miami,Philly,158
+159,Chicago,Philly,159
+160,Phoenix,Philly,160
+161,Toronto,Philly,161
+162,Minnesota,Toronto,162
+163,Denver,Toronto,163
+164,Portland,Toronto,164
+165,OKC,Toronto,165
+166,Golden State,Toronto,166
+167,Los Angeles,Toronto,167
+168,San Antonio,Toronto,168
+169,Houston,Toronto,169
+170,Atlanta,Toronto,170
+171,Miami,Toronto,171
+172,Chicago,Toronto,172
+173,Phoenix,Toronto,173
+174,Minnesota,Phoenix,174
+175,Denver,Phoenix,175
+176,Portland,Phoenix,176
+177,OKC,Phoenix,177
+178,Golden State,Phoenix,178
+179,Los Angeles,Phoenix,179
+180,San Antonio,Phoenix,180
+181,Houston,Phoenix,181
+182,Atlanta,Phoenix,182
+183,Miami,Phoenix,183
+184,Chicago,Phoenix,184
+185,Minnesota,Chicago,185
+186,Denver,Chicago,186
+187,Portland,Chicago,187
+188,OKC,Chicago,188
+189,Golden State,Chicago,189
+190,Los Angeles,Chicago,190
+191,San Antonio,Chicago,191
+192,Houston,Chicago,192
+193,Atlanta,Chicago,193
+194,Miami,Chicago,194
+195,Minnesota,Miami,195
+196,Denver,Miami,196
+197,Portland,Miami,197
+198,OKC,Miami,198
+199,Golden State,Miami,199
+200,Los Angeles,Miami,200
+201,San Antonio,Miami,201
+202,Houston,Miami,202
+203,Atlanta,Miami,203
+204,Minnesota,Atlanta,204
+205,Denver,Atlanta,205
+206,Portland,Atlanta,206
+207,OKC,Atlanta,207
+208,Golden State,Atlanta,208
+209,Los Angeles,Atlanta,209
+210,San Antonio,Atlanta,210
+211,Houston,Atlanta,211
+212,Minnesota,Houston,212
+213,Denver,Houston,213
+214,Portland,Houston,214
+215,OKC,Houston,215
+216,Golden State,Houston,216
+217,Los Angeles,Houston,217
+218,San Antonio,Houston,218
+219,Minnesota,San Antonio,219
+220,Denver,San Antonio,220
+221,Portland,San Antonio,221
+222,OKC,San Antonio,222
+223,Golden State,San Antonio,223
+224,Los Angeles,San Antonio,224
+225,Minnesota,Los Angeles,225
+226,Denver,Los Angeles,226
+227,Portland,Los Angeles,227
+228,OKC,Los Angeles,228
+229,Golden State,Los Angeles,229
+230,Minnesota,Golden State,230
+231,Denver,Golden State,231
+232,Portland,Golden State,232
+233,OKC,Golden State,233
+234,Minnesota,OKC,234
+235,Denver,OKC,235
+236,Portland,OKC,236
+237,Minnesota,Portland,237
+238,Denver,Portland,238
+239,Minnesota,Denver,239
+240,Houston,Minnesota,240
+241,Houston,Denver,241
+242,Houston,Portland,242
+243,Houston,OKC,243
+244,Houston,Golden State,244
+245,Houston,Los Angeles,245
+246,Houston,San Antonio,246
+247,San Antonio,Minnesota,247
+248,San Antonio,Denver,248
+249,San Antonio,Portland,249
+250,San Antonio,OKC,250
+251,San Antonio,Golden State,251
+252,San Antonio,Los Angeles,252
+253,Los Angeles,Minnesota,253
+254,Los Angeles,Denver,254
+255,Los Angeles,Portland,255
+256,Los Angeles,OKC,256
+257,Los Angeles,Golden State,257
+258,Golden State,Minnesota,258
+259,Golden State,Denver,259
+260,Golden State,Portland,260
+261,Golden State,OKC,261
+262,OKC,Minnesota,262
+263,OKC,Denver,263
+264,OKC,Portland,264
+265,Portland,Minnesota,265
+266,Portland,Denver,266
+267,Denver,Minnesota,267
+268,Minnesota,Houston,268
+269,Denver,Houston,269
+270,Portland,Houston,270
+271,OKC,Houston,271
+272,Golden State,Houston,272
+273,Los Angeles,Houston,273
+274,San Antonio,Houston,274
+275,Minnesota,San Antonio,275
+276,Denver,San Antonio,276
+277,Portland,San Antonio,277
+278,OKC,San Antonio,278
+279,Golden State,San Antonio,279
+280,Los Angeles,San Antonio,280
+281,Minnesota,Los Angeles,281
+282,Denver,Los Angeles,282
+283,Portland,Los Angeles,283
+284,OKC,Los Angeles,284
+285,Golden State,Los Angeles,285
+286,Minnesota,Golden State,286
+287,Denver,Golden State,287
+288,Portland,Golden State,288
+289,OKC,Golden State,289
+290,Minnesota,OKC,290
+291,Denver,OKC,291
+292,Portland,OKC,292
+293,Minnesota,Portland,293
+294,Denver,Portland,294
+295,Minnesota,Denver,295
+296,Boston,Phoenix,296
+297,Boston,Atlanta,297
+298,Boston,Miami,298
+299,Boston,Chicago,299
+300,Boston,Toronto,300
+301,Boston,Philly,301
+302,Boston,New York,302
+303,New York,Phoenix,303
+304,New York,Atlanta,304
+305,New York,Miami,305
+306,New York,Chicago,306
+307,New York,Toronto,307
+308,New York,Philly,308
+309,Philly,Phoenix,309
+310,Philly,Atlanta,310
+311,Philly,Miami,311
+312,Philly,Chicago,312
+313,Philly,Toronto,313
+314,Toronto,Phoenix,314
+315,Toronto,Atlanta,315
+316,Toronto,Miami,316
+317,Toronto,Chicago,317
+318,Chicago,Phoenix,318
+319,Chicago,Atlanta,319
+320,Chicago,Miami,320
+321,Miami,Phoenix,321
+322,Miami,Atlanta,322
+323,Atlanta,Phoenix,323
+324,Phoenix,Boston,324
+325,Atlanta,Boston,325
+326,Miami,Boston,326
+327,Chicago,Boston,327
+328,Toronto,Boston,328
+329,Philly,Boston,329
+330,New York,Boston,330
+331,Phoenix,New York,331
+332,Atlanta,New York,332
+333,Miami,New York,333
+334,Chicago,New York,334
+335,Toronto,New York,335
+336,Philly,New York,336
+337,Phoenix,Philly,337
+338,Atlanta,Philly,338
+339,Miami,Philly,339
+340,Chicago,Philly,340
+341,Toronto,Philly,341
+342,Phoenix,Toronto,342
+343,Atlanta,Toronto,343
+344,Miami,Toronto,344
+345,Chicago,Toronto,345
+346,Phoenix,Chicago,346
+347,Atlanta,Chicago,347
+348,Miami,Chicago,348
+349,Phoenix,Miami,349
+350,Atlanta,Miami,350
+351,Phoenix,Atlanta,351
+352,Houston,Minnesota,352
+353,Houston,OKC,353
+354,Houston,San Antonio,354
+355,San Antonio,Minnesota,355
+356,San Antonio,OKC,356
+357,OKC,Minnesota,357
+358,Houston,Minnesota,358
+359,Houston,OKC,359
+360,Houston,San Antonio,360
+361,San Antonio,Minnesota,361
+362,San Antonio,OKC,362
+363,OKC,Minnesota,363
+364,Minnesota,Houston,364
+365,OKC,Houston,365
+366,San Antonio,Houston,366
+367,Minnesota,San Antonio,367
+368,OKC,San Antonio,368
+369,Minnesota,OKC,369
+370,Minnesota,Houston,370
+371,OKC,Houston,371
+372,San Antonio,Houston,372
+373,Minnesota,San Antonio,373
+374,OKC,San Antonio,374
+375,Minnesota,OKC,375
+376,Los Angeles,Denver,376
+377,Los Angeles,Portland,377
+378,Los Angeles,Golden State,378
+379,Golden State,Denver,379
+380,Golden State,Portland,380
+381,Portland,Denver,381
+382,Los Angeles,Denver,382
+383,Los Angeles,Portland,383
+384,Los Angeles,Golden State,384
+385,Golden State,Denver,385
+386,Golden State,Portland,386
+387,Portland,Denver,387
+388,Denver,Los Angeles,388
+389,Portland,Los Angeles,389
+390,Golden State,Los Angeles,390
+391,Denver,Golden State,391
+392,Portland,Golden State,392
+393,Denver,Portland,393
+394,Denver,Los Angeles,394
+395,Portland,Los Angeles,395
+396,Golden State,Los Angeles,396
+397,Denver,Golden State,397
+398,Portland,Golden State,398
+399,Denver,Portland,399
+400,Chicago,Phoenix,400
+401,Chicago,Indiana,401
+402,Chicago,Atlanta,402
+403,Chicago,Miami,403
+404,Miami,Phoenix,404
+405,Miami,Indiana,405
+406,Miami,Atlanta,406
+407,Atlanta,Phoenix,407
+408,Atlanta,Indiana,408
+409,Indiana,Phoenix,409
+410,Chicago,Phoenix,410
+411,Chicago,Indiana,411
+412,Chicago,Atlanta,412
+413,Chicago,Miami,413
+414,Miami,Phoenix,414
+415,Miami,Indiana,415
+416,Miami,Atlanta,416
+417,Atlanta,Phoenix,417
+418,Atlanta,Indiana,418
+419,Indiana,Phoenix,419
+420,Phoenix,Chicago,420
+421,Indiana,Chicago,421
+422,Atlanta,Chicago,422
+423,Miami,Chicago,423
+424,Phoenix,Miami,424
+425,Indiana,Miami,425
+426,Atlanta,Miami,426
+427,Phoenix,Atlanta,427
+428,Indiana,Atlanta,428
+429,Phoenix,Indiana,429
+430,Phoenix,Chicago,430
+431,Indiana,Chicago,431
+432,Atlanta,Chicago,432
+433,Miami,Chicago,433
+434,Phoenix,Miami,434
+435,Indiana,Miami,435
+436,Atlanta,Miami,436
+437,Phoenix,Atlanta,437
+438,Indiana,Atlanta,438
+439,Phoenix,Indiana,439
+440,Boston,Philly,440
+441,Boston,New York,441
+442,Boston,Toronto,442
+443,Toronto,Philly,443
+444,Toronto,New York,444
+445,New York,Philly,445
+446,Boston,Philly,446
+447,Boston,New York,447
+448,Boston,Toronto,448
+449,Toronto,Philly,449
+450,Toronto,New York,450
+451,New York,Philly,451
+452,Philly,Boston,452
+453,New York,Boston,453
+454,Toronto,Boston,454
+455,Philly,Toronto,455
+456,New York,Toronto,456
+457,Philly,New York,457
+458,Philly,Boston,458
+459,New York,Boston,459
+460,Toronto,Boston,460
+461,Philly,Toronto,461
+462,New York,Toronto,462
+463,Philly,New York,463

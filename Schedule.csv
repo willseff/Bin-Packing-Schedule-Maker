@@ -1,0 +1,557 @@
+Day Number,gid,awayTeam,homeTeam
+Day1,0,,
+,1,Boston,Denver
+,15,New York,Minnesota
+,31,Philly,Portland
+,45,Toronto,OKC
+,58,Phoenix,Golden State
+,70,Chicago,Los Angeles
+,81,Miami,San Antonio
+,91,Atlanta,Houston
+Day2,0,,
+,2,Boston,Portland
+,16,New York,Denver
+,29,Philly,Minnesota
+,46,Toronto,Golden State
+,57,Phoenix,OKC
+,71,Chicago,San Antonio
+,80,Miami,Los Angeles
+,211,Houston,Atlanta
+Day3,0,,
+,3,Boston,OKC
+,17,New York,Portland
+,30,Philly,Denver
+,42,Toronto,Minnesota
+,59,Phoenix,Los Angeles
+,69,Chicago,Golden State
+,82,Miami,Houston
+,90,Atlanta,San Antonio
+Day4,0,,
+,4,Boston,Golden State
+,18,New York,OKC
+,34,Philly,Los Angeles
+,43,Toronto,Denver
+,54,Phoenix,Minnesota
+,67,Chicago,Portland
+,83,Miami,Atlanta
+,98,Houston,San Antonio
+Day5,0,,
+,5,Boston,Los Angeles
+,19,New York,Golden State
+,32,Philly,OKC
+,44,Toronto,Portland
+,55,Phoenix,Denver
+,65,Chicago,Minnesota
+,201,San Antonio,Miami
+,408,Atlanta,Indiana
+Day6,0,,
+,6,Boston,San Antonio
+,20,New York,Los Angeles
+,33,Philly,Golden State
+,49,Toronto,Houston
+,56,Phoenix,Portland
+,66,Chicago,Denver
+,75,Miami,Minnesota
+,87,Atlanta,OKC
+Day7,0,,
+,7,Boston,Houston
+,21,New York,San Antonio
+,37,Philly,Atlanta
+,47,Toronto,Los Angeles
+,63,Phoenix,Miami
+,68,Chicago,OKC
+,110,Golden State,Minnesota
+,118,Portland,Denver
+Day8,0,,
+,8,Boston,Atlanta
+,22,New York,Houston
+,35,Philly,San Antonio
+,51,Toronto,Miami
+,64,Phoenix,Chicago
+,105,Los Angeles,Minnesota
+,111,Golden State,Denver
+,116,OKC,Portland
+Day9,0,,
+,9,Boston,Miami
+,23,New York,Atlanta
+,36,Philly,Houston
+,48,Toronto,San Antonio
+,106,Los Angeles,Denver
+,112,Golden State,Portland
+,114,OKC,Minnesota
+,184,Chicago,Phoenix
+Day10,0,,
+,10,Boston,Chicago
+,24,New York,Miami
+,40,Philly,Phoenix
+,50,Toronto,Atlanta
+,92,Houston,Minnesota
+,100,San Antonio,Denver
+,107,Los Angeles,Portland
+,113,Golden State,OKC
+Day11,0,,
+,11,Boston,Phoenix
+,25,New York,Chicago
+,38,Philly,Miami
+,84,Atlanta,Minnesota
+,93,Houston,Denver
+,101,San Antonio,Portland
+,108,Los Angeles,OKC
+,166,Golden State,Toronto
+Day12,0,,
+,12,Boston,Toronto
+,26,New York,Phoenix
+,39,Philly,Chicago
+,76,Miami,Denver
+,86,Atlanta,Portland
+,95,Houston,OKC
+,99,San Antonio,Minnesota
+,109,Los Angeles,Golden State
+Day13,0,,
+,13,Boston,Philly
+,27,New York,Toronto
+,60,Phoenix,San Antonio
+,72,Chicago,Houston
+,77,Miami,Portland
+,85,Atlanta,Denver
+,225,Minnesota,Los Angeles
+,233,OKC,Golden State
+Day14,0,,
+,14,Boston,New York
+,41,Philly,Toronto
+,61,Phoenix,Houston
+,73,Chicago,Atlanta
+,78,Miami,OKC
+,103,San Antonio,Golden State
+,117,Portland,Minnesota
+,226,Denver,Los Angeles
+Day15,0,,
+,28,New York,Philly
+,52,Toronto,Chicago
+,62,Phoenix,Atlanta
+,79,Miami,Golden State
+,94,Houston,Portland
+,102,San Antonio,OKC
+,119,Denver,Minnesota
+,125,Los Angeles,Boston
+Day16,0,,
+,53,Toronto,Phoenix
+,74,Chicago,Miami
+,88,Atlanta,Golden State
+,97,Houston,Los Angeles
+,115,OKC,Denver
+,120,Minnesota,Boston
+,137,Portland,New York
+,155,San Antonio,Philly
+Day17,0,,
+,89,Atlanta,Los Angeles
+,96,Houston,Golden State
+,121,Denver,Boston
+,135,Minnesota,New York
+,151,Portland,Philly
+,165,OKC,Toronto
+,180,San Antonio,Phoenix
+,194,Miami,Chicago
+Day18,0,,
+,104,San Antonio,Los Angeles
+,122,Portland,Boston
+,136,Denver,New York
+,149,Minnesota,Philly
+,169,Houston,Toronto
+,177,OKC,Phoenix
+,189,Golden State,Chicago
+,203,Atlanta,Miami
+Day19,0,,
+,123,OKC,Boston
+,139,Golden State,New York
+,150,Denver,Philly
+,162,Minnesota,Toronto
+,176,Portland,Phoenix
+,190,Los Angeles,Chicago
+,202,Houston,Miami
+,210,San Antonio,Atlanta
+Day20,0,,
+,124,Golden State,Boston
+,138,OKC,New York
+,154,Los Angeles,Philly
+,163,Denver,Toronto
+,174,Minnesota,Phoenix
+,187,Portland,Chicago
+,218,San Antonio,Houston
+,322,Miami,Atlanta
+Day21,0,,
+,126,San Antonio,Boston
+,140,Los Angeles,New York
+,152,OKC,Philly
+,164,Portland,Toronto
+,175,Denver,Phoenix
+,185,Minnesota,Chicago
+,199,Golden State,Miami
+,418,Atlanta,Indiana
+Day22,0,,
+,127,Houston,Boston
+,141,San Antonio,New York
+,153,Golden State,Philly
+,167,Los Angeles,Toronto
+,182,Atlanta,Phoenix
+,186,Denver,Chicago
+,195,Minnesota,Miami
+,236,Portland,OKC
+Day23,0,,
+,128,Atlanta,Boston
+,142,Houston,New York
+,158,Miami,Philly
+,168,San Antonio,Toronto
+,178,Golden State,Phoenix
+,188,OKC,Chicago
+,227,Portland,Los Angeles
+,239,Minnesota,Denver
+Day24,0,,
+,129,Miami,Boston
+,143,Atlanta,New York
+,156,Houston,Philly
+,172,Chicago,Toronto
+,179,Los Angeles,Phoenix
+,219,Minnesota,San Antonio
+,231,Denver,Golden State
+,264,OKC,Portland
+Day25,0,,
+,130,Chicago,Boston
+,144,Miami,New York
+,157,Atlanta,Philly
+,173,Phoenix,Toronto
+,212,Minnesota,Houston
+,220,Denver,San Antonio
+,228,OKC,Los Angeles
+,232,Portland,Golden State
+Day26,0,,
+,131,Phoenix,Boston
+,145,Chicago,New York
+,161,Toronto,Philly
+,196,Denver,Miami
+,204,Minnesota,Atlanta
+,214,Portland,Houston
+,222,OKC,San Antonio
+,229,Golden State,Los Angeles
+Day27,0,,
+,132,Toronto,Boston
+,146,Phoenix,New York
+,159,Chicago,Philly
+,197,Portland,Miami
+,205,Denver,Atlanta
+,215,OKC,Houston
+,223,Golden State,San Antonio
+,253,Los Angeles,Minnesota
+Day28,0,,
+,133,Philly,Boston
+,147,Toronto,New York
+,181,Houston,Phoenix
+,191,San Antonio,Chicago
+,198,OKC,Miami
+,206,Portland,Atlanta
+,230,Minnesota,Golden State
+,254,Los Angeles,Denver
+Day29,0,,
+,134,New York,Boston
+,160,Phoenix,Philly
+,170,Atlanta,Toronto
+,192,Houston,Chicago
+,200,Los Angeles,Miami
+,221,Portland,San Antonio
+,234,Minnesota,OKC
+,259,Golden State,Denver
+Day30,0,,
+,148,Philly,New York
+,171,Miami,Toronto
+,193,Atlanta,Chicago
+,213,Denver,Houston
+,224,Los Angeles,San Antonio
+,237,Minnesota,Portland
+,261,Golden State,OKC
+,296,Boston,Phoenix
+Day31,0,,
+,183,Miami,Phoenix
+,207,OKC,Atlanta
+,216,Golden State,Houston
+,238,Denver,Portland
+,247,San Antonio,Minnesota
+,299,Boston,Chicago
+,307,New York,Toronto
+Day32,0,,
+,208,Golden State,Atlanta
+,217,Los Angeles,Houston
+,235,Denver,OKC
+,249,San Antonio,Portland
+,298,Boston,Miami
+,303,New York,Phoenix
+,312,Philly,Chicago
+Day33,0,,
+,209,Los Angeles,Atlanta
+,240,Houston,Minnesota
+,248,San Antonio,Denver
+,260,Golden State,Portland
+,300,Boston,Toronto
+,305,New York,Miami
+,309,Philly,Phoenix
+,401,Chicago,Indiana
+Day34,0,,
+,241,Houston,Denver
+,250,San Antonio,OKC
+,255,Los Angeles,Portland
+,258,Golden State,Minnesota
+,297,Boston,Atlanta
+,306,New York,Chicago
+,311,Philly,Miami
+,314,Toronto,Phoenix
+Day35,0,,
+,242,Houston,Portland
+,251,San Antonio,Golden State
+,256,Los Angeles,OKC
+,267,Denver,Minnesota
+,301,Boston,Philly
+,304,New York,Atlanta
+,316,Toronto,Miami
+,318,Chicago,Phoenix
+Day36,0,,
+,243,Houston,OKC
+,252,San Antonio,Los Angeles
+,265,Portland,Minnesota
+,287,Denver,Golden State
+,302,Boston,New York
+,310,Philly,Atlanta
+,317,Toronto,Chicago
+,321,Miami,Phoenix
+Day37,0,,
+,244,Houston,Golden State
+,262,OKC,Minnesota
+,266,Portland,Denver
+,280,Los Angeles,San Antonio
+,308,New York,Philly
+,315,Toronto,Atlanta
+,320,Chicago,Miami
+,324,Phoenix,Boston
+Day38,0,,
+,245,Houston,Los Angeles
+,263,OKC,Denver
+,275,Minnesota,San Antonio
+,288,Portland,Golden State
+,313,Philly,Toronto
+,319,Chicago,Atlanta
+,326,Miami,Boston
+,331,Phoenix,New York
+Day39,0,,
+,246,Houston,San Antonio
+,257,Los Angeles,Golden State
+,290,Minnesota,OKC
+,294,Denver,Portland
+,323,Atlanta,Phoenix
+,327,Chicago,Boston
+,333,Miami,New York
+,341,Toronto,Philly
+Day40,0,,
+,268,Minnesota,Houston
+,276,Denver,San Antonio
+,283,Portland,Los Angeles
+,289,OKC,Golden State
+,325,Atlanta,Boston
+,334,Chicago,New York
+,337,Phoenix,Philly
+,344,Miami,Toronto
+Day41,0,,
+,269,Denver,Houston
+,277,Portland,San Antonio
+,281,Minnesota,Los Angeles
+,328,Toronto,Boston
+,332,Atlanta,New York
+,339,Miami,Philly
+,346,Phoenix,Chicago
+Day42,0,,
+,270,Portland,Houston
+,278,OKC,San Antonio
+,282,Denver,Los Angeles
+,286,Minnesota,Golden State
+,329,Philly,Boston
+,335,Toronto,New York
+,347,Atlanta,Chicago
+,349,Phoenix,Miami
+Day43,0,,
+,271,OKC,Houston
+,279,Golden State,San Antonio
+,293,Minnesota,Portland
+,330,New York,Boston
+,338,Atlanta,Philly
+,342,Phoenix,Toronto
+,348,Miami,Chicago
+,376,Los Angeles,Denver
+Day44,0,,
+,272,Golden State,Houston
+,284,OKC,Los Angeles
+,295,Minnesota,Denver
+,336,Philly,New York
+,343,Atlanta,Toronto
+,400,Chicago,Phoenix
+,405,Miami,Indiana
+Day45,0,,
+,273,Los Angeles,Houston
+,291,Denver,OKC
+,340,Chicago,Philly
+,350,Atlanta,Miami
+,355,San Antonio,Minnesota
+,380,Golden State,Portland
+,409,Indiana,Phoenix
+,441,Boston,New York
+Day46,0,,
+,274,San Antonio,Houston
+,285,Golden State,Los Angeles
+,292,Portland,OKC
+,345,Chicago,Toronto
+,351,Phoenix,Atlanta
+,415,Miami,Indiana
+,440,Boston,Philly
+Day47,0,,
+,352,Houston,Minnesota
+,356,San Antonio,OKC
+,377,Los Angeles,Portland
+,379,Golden State,Denver
+,402,Chicago,Atlanta
+,404,Miami,Phoenix
+,442,Boston,Toronto
+,445,New York,Philly
+Day48,0,,
+,353,Houston,OKC
+,361,San Antonio,Minnesota
+,378,Los Angeles,Golden State
+,381,Portland,Denver
+,403,Chicago,Miami
+,407,Atlanta,Phoenix
+,443,Toronto,Philly
+,447,Boston,New York
+Day49,0,,
+,354,Houston,San Antonio
+,357,OKC,Minnesota
+,382,Los Angeles,Denver
+,386,Golden State,Portland
+,406,Miami,Atlanta
+,410,Chicago,Phoenix
+,444,Toronto,New York
+,446,Boston,Philly
+Day50,0,,
+,358,Houston,Minnesota
+,362,San Antonio,OKC
+,383,Los Angeles,Portland
+,385,Golden State,Denver
+,411,Chicago,Indiana
+,414,Miami,Phoenix
+,448,Boston,Toronto
+,451,New York,Philly
+Day51,0,,
+,359,Houston,OKC
+,367,Minnesota,San Antonio
+,384,Los Angeles,Golden State
+,387,Portland,Denver
+,412,Chicago,Atlanta
+,419,Indiana,Phoenix
+,449,Toronto,Philly
+,453,New York,Boston
+Day52,0,,
+,360,Houston,San Antonio
+,363,OKC,Minnesota
+,388,Denver,Los Angeles
+,392,Portland,Golden State
+,413,Chicago,Miami
+,417,Atlanta,Phoenix
+,450,Toronto,New York
+,452,Philly,Boston
+Day53,0,,
+,364,Minnesota,Houston
+,368,OKC,San Antonio
+,389,Portland,Los Angeles
+,391,Denver,Golden State
+,416,Miami,Atlanta
+,420,Phoenix,Chicago
+,454,Toronto,Boston
+,457,Philly,New York
+Day54,0,,
+,365,OKC,Houston
+,373,Minnesota,San Antonio
+,390,Golden State,Los Angeles
+,393,Denver,Portland
+,421,Indiana,Chicago
+,424,Phoenix,Miami
+,455,Philly,Toronto
+Day55,0,,
+,366,San Antonio,Houston
+,369,Minnesota,OKC
+,394,Denver,Los Angeles
+,398,Portland,Golden State
+,422,Atlanta,Chicago
+,425,Indiana,Miami
+,456,New York,Toronto
+,458,Philly,Boston
+Day56,0,,
+,370,Minnesota,Houston
+,374,OKC,San Antonio
+,395,Portland,Los Angeles
+,397,Denver,Golden State
+,423,Miami,Chicago
+,427,Phoenix,Atlanta
+Day57,0,,
+,371,OKC,Houston
+,396,Golden State,Los Angeles
+,399,Denver,Portland
+,426,Atlanta,Miami
+,429,Phoenix,Indiana
+Day58,0,,
+,372,San Antonio,Houston
+,375,Minnesota,OKC
+,428,Indiana,Atlanta
+,430,Phoenix,Chicago
+Day59,0,,
+,431,Indiana,Chicago
+,434,Phoenix,Miami
+Day60,0,,
+,432,Atlanta,Chicago
+,435,Indiana,Miami
+Day61,0,,
+,433,Miami,Chicago
+,437,Phoenix,Atlanta
+Day62,0,,
+,436,Atlanta,Miami
+,439,Phoenix,Indiana
+Day63,0,,
+,438,Indiana,Atlanta
+Day64,0,,
+Day65,0,,
+Day66,0,,
+Day67,0,,
+Day68,0,,
+Day69,0,,
+Day70,0,,
+Day71,0,,
+Day72,0,,
+Day73,0,,
+Day74,0,,
+Day75,0,,
+Day76,0,,
+Day77,0,,
+Day78,0,,
+Day79,0,,
+Day80,0,,
+Day81,0,,
+Day82,0,,
+Day83,0,,
+Day84,0,,
+Day85,0,,
+Day86,0,,
+Day87,0,,
+Day88,0,,
+Day89,0,,
+Day90,0,,
+Day91,0,,
+Day92,0,,
+Day93,0,,
+Day94,0,,
+Day95,0,,
+Day96,0,,
+Day97,0,,
+Day98,0,,
